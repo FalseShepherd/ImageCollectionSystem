@@ -1,6 +1,6 @@
 # ImageCollectionSystem
 
-NOTE: very early stages of development, will be subject to change.
+NOTE: This project ended up being much more complicated and involved than originally anticipated, It may be something which I end up revisiting later on.
 
 Abstract
 
